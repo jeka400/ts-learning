@@ -23,12 +23,12 @@ To run this application on your local machine, follow these steps:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/repository-name.git
+   git clone https://github.com/jeka400/ts-learning
 
 2. **Navigate to the project directory:**
 
    ```bash
-   cd repository-name
+   cd ts-learning
 
 
 3. **Install dependencies:**
